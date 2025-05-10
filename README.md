@@ -74,7 +74,6 @@ Dense(7) → Softmax
 
 ![Results Screenshot](https://i.ibb.co/ghN34dC/image.png)
 
-*(Include final accuracy, sample predictions, and plots here.)*
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
